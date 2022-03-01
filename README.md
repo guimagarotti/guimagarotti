@@ -4,7 +4,7 @@
 
 ### 🤓 Informações Pessoais:
 - 🔭 Estou em busca de um estágio na área da tecnologia!
-- 🌱 Estou aprendendo atualmente HTML5 e CSS3.
+- 🌱 Estou aprendendo atualmente JavaScript.
 - 📫 Você pode me contatar no email: guimagarotti@hotmail.com
 - 😄 Pronouns: ele/dele.
 - 🚩 Se eu pudesse me definir em três palavras, seriam: disciplina, esforço e integridade!
