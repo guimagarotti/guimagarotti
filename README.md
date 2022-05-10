@@ -6,10 +6,9 @@
 - 🔭 Estou em busca de um estágio na área da tecnologia!
 - 🌱 Estou aprendendo atualmente JavaScript.
 - 📫 Você pode me contatar no email: guimagarotti@hotmail.com
-- 😄 Pronouns: ele/dele.
-- 🚩 Se eu pudesse me definir em três palavras, seriam: disciplina, esforço e integridade!
+- 🚩 Se eu pudesse me definir em três palavras, seriam: disciplina, esforço e transparência!
 - 👀 Tenho 18 anos!
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FACENS.
 
 #
 
