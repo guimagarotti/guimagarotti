@@ -1,4 +1,5 @@
 <h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
 
 <p align='center'>
   Desenvolvedor Front-End
