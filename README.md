@@ -1,4 +1,4 @@
-<h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"></h1>
+<h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
 
 <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="900px" align="center">
 
@@ -23,12 +23,12 @@
   Stack que utilizo para realização de projetos!
   
   <div align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px">  
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40px">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40px">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40px">
-      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90px">  
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90px">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px">
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90px">
+      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90px">
   </div> 
 
 ## 💬 Redes Sociais :
