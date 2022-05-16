@@ -1,6 +1,6 @@
 <h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px"></h1>
 
-  <img align="center" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="900px">
+  <img align="center" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="700px">
 
 ### 🤓 Informações Pessoais:
 - 🔭 Estou em busca de um estágio na área da tecnologia!
