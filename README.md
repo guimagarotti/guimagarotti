@@ -11,10 +11,9 @@
   - Três qualidades: *disciplina, organização e transparência*
 
 ## 💎 Estatísticas :
-
+ 
   <div align="center">
-    <a href="https://github.com/guimagarotti">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </div>
 
@@ -32,8 +31,6 @@
   </div> 
 
 ## 💬 Redes Sociais :
-  
-  Me siga nas redes sociais e entre em contato!
 
   <div align="center"> 
     <a href="https://www.instagram.com/guimagarotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,8 +39,3 @@
      <a href="https://github.com/guimagarotti"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
   </div>
-  
-
-
-
-
