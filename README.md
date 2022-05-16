@@ -1,6 +1,6 @@
-<h1 align="center">Olá, bem-vindo!</h1>
+<h1 align="center">Olá, bem-vindo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px"></h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/FoVzfcqCDSb7zCynOp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">via GIPHY</a></p>
+<img align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="900px">
 
 ### 🤓 Informações Pessoais:
 - 🔭 Estou em busca de um estágio na área da tecnologia!
