@@ -1,5 +1,7 @@
-<h1 align="center" >Olá, bem-vindo ao meu perfil!</h1>
-<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px"></h1>
+<h1 align="center" >Olá, bem-vindo ao meu perfil!
+<br>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px">
+</h1>
 
 <p align='center'>
   Desenvolvedor Front-End
