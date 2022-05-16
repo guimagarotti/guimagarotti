@@ -1,4 +1,4 @@
-<h1 align="center" >Olá, bem-vindo ao meu perfil! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px">  Olá, bem-vindo ao meu perfil!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px"></h1>
 
 <p align='center'>
   Desenvolvedor Front-End
@@ -21,7 +21,7 @@
 
 ## 💎 Estatísticas :
  
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| Dados                                                                                                                                                            | Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=dark&layout=compact) |
 
