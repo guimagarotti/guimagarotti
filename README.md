@@ -1,6 +1,6 @@
 <h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
 
-<img src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="900px" align="center">
+<img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="900px" align="center">
 
 ## 💡 Sobre :
   - Me chamo *Guilherme Magarotti* e sou de *Sorocaba-SP*
@@ -14,7 +14,7 @@
 
   <div align="center">
     <a href="https://github.com/guimagarotti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </div>
 
