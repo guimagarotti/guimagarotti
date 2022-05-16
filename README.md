@@ -13,8 +13,8 @@
 ## 💎 Estatísticas :
  
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=blue-green"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
 
 ## 🖥️ Stack : 
@@ -40,4 +40,4 @@
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/guimagarotti/guimagarotti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
