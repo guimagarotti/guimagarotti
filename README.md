@@ -1,6 +1,6 @@
 <h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
 
-<img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="900px" align="center">
+<img src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="900px" align="center">
 
 ## 💡 Sobre :
   - Me chamo *Guilherme Magarotti* e sou de *Sorocaba-SP*
