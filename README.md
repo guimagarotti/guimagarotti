@@ -1,5 +1,9 @@
 <h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"></h1>
 
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
+
 <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="900px" align="center">
 
 ## 💡 Sobre :
@@ -10,12 +14,16 @@
   - Estudando atualmente *JavaScript*
   - Três qualidades: *disciplina, organização e transparência*
 
+## 🎯 Metas em 2022 :
+
+- 📂 Expandir meu portfólio
+- 📊 Obter experiência na área
+
 ## 💎 Estatísticas :
  
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&layout=compact&langs_count=7&theme=github_dark"/>
-  </div>
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=github_dark&layout=compact) |
 
 ## 🖥️ Stack : 
   
