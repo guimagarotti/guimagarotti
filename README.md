@@ -1,6 +1,6 @@
-<h1 align="center">Olá, bem-vindo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px"></h1>
+<h1 align="center" >Olá, bem-vindo!  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px"></h1>
 
-<img align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="800px">
+![algorithm-gif](https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif)
 
 ### 🤓 Informações Pessoais:
 - 🔭 Estou em busca de um estágio na área da tecnologia!
