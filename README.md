@@ -1,10 +1,12 @@
-<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px">  Olá, bem-vindo ao meu perfil!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px" height="50px">  Olá, bem-vindo ao meu perfil!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px" height="50px"></h1>
 
 <p align='center'>
   Desenvolvedor Front-End
 </p>
 
-<img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="900px" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="2800px">
+</div>
 
 ## 💡 Sobre :
   - Me chamo *Guilherme Magarotti* e sou de *Sorocaba-SP*
@@ -30,12 +32,12 @@
   Stack que utilizo para realização de projetos!
   
   <div align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90px">  
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90px">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90px">
-      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90px" height="90px">  
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90px" height="90px">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px" height="90px">
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90px" height="90px">
+      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90px" height="90px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90px" height="90px">
   </div> 
 
 ## 💬 Redes Sociais :
@@ -48,4 +50,5 @@
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
+  
