@@ -16,7 +16,7 @@
   - Estudando atualmente *JavaScript*
   - Três qualidades: *disciplina, organização e transparência*
 
-## 🎯 Metas em 2022 :
+## 🎯 Metas para 2022 :
 
 - 📂 Expandir meu portfólio
 - 📊 Obter experiência na área
