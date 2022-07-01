@@ -13,7 +13,7 @@
   - Tenho *18 anos de idade*
   - Cursando *Análise e Desenvolvimento de Sistemas* - *FACENS*
   - Desenvolvedor *Front-End*
-  - Estudando atualmente *JavaScript*
+  - Estudando atualmente *JavaScript, TypeScript e ReactJS*
   - Três qualidades: *disciplina, organização e transparência*
 
 ## 🎯 Metas para 2022 :
