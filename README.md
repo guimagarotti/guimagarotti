@@ -19,7 +19,7 @@
 ## 🎯 Metas para 2022 :
 
 - 📂 Expandir meu portfólio
-- 📊 Obter experiência na área
+- 📊 Obter experiência na área de tecnologia
 
 ## 💎 Estatísticas :
  
