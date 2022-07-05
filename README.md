@@ -25,7 +25,7 @@
  
 | Dados                                                                                                                                                            | Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=dark&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=default&layout=compact) |
 
 ## 🖥️ Stack : 
   
