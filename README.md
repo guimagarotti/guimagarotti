@@ -14,7 +14,7 @@
   - Cursando *Análise e Desenvolvimento de Sistemas* - *FACENS*
   - Desenvolvedor *Front-End*
   - Estudando atualmente *JavaScript, TypeScript e ReactJS*
-  - Três qualidades: *disciplina, organização e transparência*
+  - Três qualidades: *disciplina, organização e adaptabilidade*
 
 ## 🎯 Metas para 2022 :
 
