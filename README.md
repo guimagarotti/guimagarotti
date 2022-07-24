@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="910px">
+  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="780px">
 </div>
 
 ## 💡 Sobre :
@@ -32,12 +32,12 @@
   Stack que utilizo para realização de projetos!
   
   <div align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="90px" height="90px">  
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90px" height="90px">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px" height="90px">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90px" height="90px">
-      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90px" height="90px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="90px" height="90px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70px" height="70px">  
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70px" height="70px">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70px" height="70px">
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70px" height="70px">
+      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="70px" height="70px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70px" height="70px">
   </div> 
 
 ## 💬 Redes Sociais :
