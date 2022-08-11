@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="780px">
+  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="810px">
 </div>
 
 ## 💡 Sobre :
@@ -47,7 +47,7 @@
     <a href="https://www.linkedin.com/in/guilherme-cambi-magarotti-16177522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/GuilhermeMagar7" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
      <a href="https://github.com/guimagarotti"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+     <a href="https://guimagarotti.github.io/website-magarotti/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
   </div>
   
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
