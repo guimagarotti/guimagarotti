@@ -32,12 +32,13 @@
   Stack que utilizo para realização de projetos!
   
   <div align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70px" height="70px">  
+      <img src="https://camo.githubusercontent.com/b3904dc72cb7b7c70cbd7d8f08420fc5bbf08ef606b1a71891b8a097670873e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" width="85px" height="70px">
+      <img src="https://camo.githubusercontent.com/72fd54faa8a39aed97354ea788e55524a47c30e1da23dd321331260ab133a2b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f67697068792e676966" width="85px" height="70px">
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="85px" height="70px">
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="85px" height="70px">
+      <img src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966" width="85px" height="70px">
       <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="85px" height="70px">
       <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="85px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70px" height="70px">
   </div> 
 
 ## 💬 Redes Sociais :
