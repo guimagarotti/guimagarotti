@@ -10,10 +10,10 @@
 
 ## 💡 Sobre :
   - Me chamo *Guilherme Magarotti* e sou de *Sorocaba-SP*
-  - Tenho *18 anos de idade*
+  - Tenho *19 anos de idade*
   - Cursando *Análise e Desenvolvimento de Sistemas* - *FACENS*
   - Desenvolvedor *Front-End*
-  - Estudando atualmente *JavaScript, TypeScript e ReactJS*
+  - Estudando atualmente *JavaScript, React, Python, Java e SQL*
   - Três qualidades: *disciplina, organização e adaptabilidade*
 
 ## 🎯 Metas para 2022 :
