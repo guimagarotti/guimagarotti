@@ -8,28 +8,31 @@
   <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="810px">
 </div>
 
-## 💡 Sobre :
-  - Me chamo *Guilherme Magarotti* e sou de *Sorocaba-SP*
-  - Tenho *19 anos de idade*
-  - Cursando *Análise e Desenvolvimento de Sistemas* - *FACENS*
-  - Desenvolvedor *Front-End*
-  - Estudando atualmente *JavaScript, React, Python, Java e SQL*
-  - Três qualidades: *disciplina, organização e adaptabilidade*
+<h2>💡 Sobre :</h2>
+  <ul>
+    <li>Me chamo <b>Guilherme Magarotti</b> e sou de <b>Sorocaba-SP</b>;</li>
+    <li>Tenho <b>19 anos de idade</b>;</li>
+    <li>Cursando <b>Análise e Desenvolvimento de Sistemas</b> - <b>FACENS</b>;</li>
+    <li>Desenvolvedor <b>Front-End</b>;</li>
+    <li>Estudando atualmente <b>JavaScript, React, Python, Java e SQL</b>;</li>
+    <li>Três qualidades: <b>disciplina, organização e adaptabilidade</b>;</li>
+  </ul>
+  
+<h2>🎯 Metas para 2022 :</h2>
+<ul>
+  <li>📂 Expandir meu portfólio</li>
+  <li>📊 Obter experiência na área de tecnologia</li>
+</ul>
 
-## 🎯 Metas para 2022 :
-
-- 📂 Expandir meu portfólio
-- 📊 Obter experiência na área de tecnologia
-
-## 💎 Estatísticas :
+<h2>💎 Estatísticas :</h2>
  
 | Dados                                                                                                                                                            | Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=default&layout=compact) |
 
-## 🖥️ Stack : 
+<h2>🖥️ Stack :</h2>
   
-  Stack que utilizo para realização de projetos!
+  <p>Stack que utilizo para realização de projetos!</p>
   
   <div align="center">
       <img src="https://camo.githubusercontent.com/b3904dc72cb7b7c70cbd7d8f08420fc5bbf08ef606b1a71891b8a097670873e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" width="85px" height="70px">
@@ -41,7 +44,7 @@
       <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="85px" height="70px">
   </div> 
 
-## 💬 Redes Sociais :
+<h2>💬 Redes Sociais :</h2>
 
   <div align="center"> 
     <a href="https://www.instagram.com/guimagarotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
