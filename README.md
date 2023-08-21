@@ -17,6 +17,10 @@
     <li>Estudando atualmente <b>JavaScript, React, Python, Java e SQL</b>;</li>
     <li>Três qualidades: <b>disciplina, organização e adaptabilidade</b>;</li>
   </ul>
+
+<div align="center">
+  <img src="1654883796363.jpeg" width="250px">
+</div>
   
 <h2>🎯 Metas para 2022 :</h2>
 <ul>
