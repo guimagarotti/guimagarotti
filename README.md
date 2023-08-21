@@ -21,6 +21,19 @@
 <div align="center">
   <img src="1654883796363.jpeg" width="250px">
 </div>
+
+<h2>🏅 Breve Resumo de Qualificações :</h2>
+<ul>
+  <li>Sou um amante de tecnologia, especificamente a área de Desenvolvimento WEB. Desde o ínicio de 2022, através de cursos e bootcamps, consolidando meus conhecimentos como Desenvolvedor Front-End, área que tenho maior       expertise e interesse por evolução constante, construindo aplicações e sistemas responsivos;</li>
+
+  <li>Tenho sólidos conhecimentos e competências em: Lógica de Programação, HTML, CSS, Bootstrap, SASS, JavaScript, React e versionamento de código com Git e GitHub;</li>
+
+  <li>Atualmente, estou aprimorando e consolidando conhecimentos em TypeScript e React;</li>
+
+  <li>Desde fevereiro de 2022 na universidade FACENS, cursando o 2º Semestre em Análise e Desenvolvimento de Sistemas. No momento, estudando a linguagem de programação Java, Python e banco de dados relacional MySQL;</li>
+
+  <li>Sou um profissional proeficiente, autodidata e motivado para aprender novas tecnologias, buscar novos conhecimentos, desenvolver projetos em equipe e enfrentar desafios para sair da zona de conforto.</li>
+</ul>
   
 <h2>🎯 Metas para 2022 :</h2>
 <ul>
