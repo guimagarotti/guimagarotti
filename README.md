@@ -14,14 +14,10 @@
     <li>Tenho <b>19 anos de idade</b>;</li>
     <li>Cursando <b>Análise e Desenvolvimento de Sistemas</b> - <b>FACENS</b>;</li>
     <li>Desenvolvedor <b>Front-End</b>;</li>
-    <li>Estudando atualmente <b>JavaScript, React, Python, Java e SQL</b>;</li>
+    <li>Estudando atualmente <b>JavaScript, TypeScript, Angular, Java e SQL</b>;</li>
     <li>Três qualidades: <b>disciplina, organização e adaptabilidade</b>;</li>
   </ul>
-
-<div align="center">
-  <img src="1654883796363.jpeg" width="250px">
-</div>
-
+  
 <h2>🏅 Breve Resumo de Qualificações :</h2>
 <ul>
   <li>Sou um amante de tecnologia, especificamente a área de Desenvolvimento WEB. Desde o ínicio de 2022, através de cursos e bootcamps, consolidando meus conhecimentos como Desenvolvedor Front-End, área que tenho maior       expertise e interesse por evolução constante, construindo aplicações e sistemas responsivos;</li>
@@ -38,7 +34,7 @@
 <h2>🎯 Metas para 2022 :</h2>
 <ul>
   <li>📂 Expandir meu portfólio</li>
-  <li>📊 Obter experiência na área de tecnologia</li>
+  <li>📊 Adquirir ainda mais experiência e conhecimentos na área de tecnologia</li>
 </ul>
 
 <h2>💎 Estatísticas :</h2>
