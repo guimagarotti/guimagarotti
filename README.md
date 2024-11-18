@@ -1,71 +1,67 @@
-<h1 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px" height="50px">  Olá, bem-vindo ao meu perfil!  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px" height="50px"></h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align='center'>
-  Desenvolvedor Front-End
+<p align="left"> 
+  💜 Olá, eu sou o <strong>Guilherme!</strong> Desenvolvedor de software, focado na área de desenvolvimento 
+  <strong>Front-End</strong>. Atualmente, trabalhando como desenvolvedor de sistemas e soluções na <strong>IT4IoT</strong>.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="810px">
-</div>
+🦄 Stack: `Angular`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `Java`, `Springboot`, `PostgreSQL`, `MySQL`, `Git`;
 
-<h2>💡 Sobre :</h2>
-  <ul>
-    <li>Me chamo <b>Guilherme Magarotti</b> e sou de <b>Sorocaba-SP</b>;</li>
-    <li>Tenho <b>19 anos de idade</b>;</li>
-    <li>Cursando <b>Análise e Desenvolvimento de Sistemas</b> - <b>FACENS</b>;</li>
-    <li>Desenvolvedor <b>Front-End</b>;</li>
-    <li>Estudando atualmente <b>JavaScript, TypeScript, Angular, Java e SQL</b>;</li>
-    <li>Três qualidades: <b>disciplina, organização e adaptabilidade</b>;</li>
-  </ul>
-  
-<h2>🏅 Breve Resumo de Qualificações :</h2>
-<ul>
-  <li>Sou um amante de tecnologia, especificamente a área de Desenvolvimento WEB. Desde o ínicio de 2022, através de cursos e bootcamps, consolidando meus conhecimentos como Desenvolvedor Front-End, área que tenho maior       expertise e interesse por evolução constante, construindo aplicações e sistemas responsivos;</li>
+💼 Ferramentas: `VS Code`, `Figma`, `Scrum`, `Postman`;
 
-  <li>Tenho sólidos conhecimentos e competências em: Lógica de Programação, HTML, CSS, Bootstrap, SASS, JavaScript, React e versionamento de código com Git e GitHub;</li>
 
-  <li>Atualmente, estou aprimorando e consolidando conhecimentos em TypeScript e React;</li>
+<p align="left">
+  💌 Entre em contato abaixo: ⤵️
+</p>
 
-  <li>Desde fevereiro de 2022 na universidade FACENS, cursando o 2º Semestre em Análise e Desenvolvimento de Sistemas. No momento, estudando a linguagem de programação Java, Python e banco de dados relacional MySQL;</li>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilherme.magarotti61@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cambi-magarotti/" alt="LinkedIn"/></a>
+</p>
 
-  <li>Sou um profissional proeficiente, autodidata e motivado para aprender novas tecnologias, buscar novos conhecimentos, desenvolver projetos em equipe e enfrentar desafios para sair da zona de conforto.</li>
-</ul>
-  
-<h2>🎯 Metas para 2022 :</h2>
-<ul>
-  <li>📂 Expandir meu portfólio</li>
-  <li>📊 Adquirir ainda mais experiência e conhecimentos na área de tecnologia</li>
-</ul>
+## Sobre mim
 
-<h2>💎 Estatísticas :</h2>
- 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software;
+- 💡 Tenho 21 anos e sou de Sorocaba/SP;
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na FACENS;
+- 🎓 Cursando Engenharia da Computação na FACENS (dezembro/2027);
+- 💼 Trabalhando como desenvolvedor de sistemas na IT4IoT;
+- 🌱 Aprendendo mais sobre React e Node JS;
+- 🎯 Sou um profissional proeficiente, autodidata e motivado para aprender novas tecnologias, buscar novos conhecimentos, desenvolver projetos em equipe e enfrentar desafios para sair da zona de conforto.
+
+## 🚀 Minhas Skills
+
+**Aplicações e dados**
+
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+## 💎 Estatísticas
+
 | Dados                                                                                                                                                            | Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=default&layout=compact) |
-
-<h2>🖥️ Stack :</h2>
-  
-  <p>Stack que utilizo para realização de projetos!</p>
-  
-  <div align="center">
-      <img src="https://camo.githubusercontent.com/b3904dc72cb7b7c70cbd7d8f08420fc5bbf08ef606b1a71891b8a097670873e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" width="85px" height="70px">
-      <img src="https://camo.githubusercontent.com/72fd54faa8a39aed97354ea788e55524a47c30e1da23dd321331260ab133a2b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f67697068792e676966" width="85px" height="70px">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="85px" height="70px">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="85px" height="70px">
-      <img src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966" width="85px" height="70px">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="85px" height="70px">
-      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="85px" height="70px">
-  </div> 
-
-<h2>💬 Redes Sociais :</h2>
-
-  <div align="center"> 
-    <a href="https://www.instagram.com/guimagarotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/guilherme-cambi-magarotti-16177522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/GuilhermeMagar7" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-     <a href="https://github.com/guimagarotti"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-     <a href="https://guimagarotti.github.io/website-magarotti/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
-  </div>
-  
-![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
-  
+| ![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guimagarotti&show_icons=true&hide_border=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guimagarotti&langs_count=10&count_private=true&hide_border=true&theme=default&layout=compact) |
