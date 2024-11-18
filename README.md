@@ -1,7 +1,9 @@
+# Guilherme Magarotti
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  💜 Olá, eu sou o <strong>Guilherme!</strong> Desenvolvedor de software, focado na área de desenvolvimento 
+  💜 Olá, meu nome é <strong>Guilherme!</strong> Sou desenvolvedor de software, focado na área de desenvolvimento 
   <strong>Front-End</strong>. Atualmente, trabalhando como desenvolvedor de sistemas e soluções na <strong>IT4IoT</strong>.
 </p>
 
@@ -15,11 +17,11 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:guilherme.magarotti61@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilherme.magarotti61@gmail.com" alt="Gmail"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/guilherme-cambi-magarotti/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cambi-magarotti/" alt="LinkedIn"/></a>
 </p>
 
